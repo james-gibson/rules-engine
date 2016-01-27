@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/james-gibson/rules-engine/issues"
   },
-  "homepage": "https://github.com/james-gibson/rules-engine#readme"
+  "homepage": "https://github.com/james-gibson/rules-engine#readme",
+  "dependencies": {
+    "node-rules": "^3.0.3"
+  }
 }
